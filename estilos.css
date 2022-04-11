@@ -18,6 +18,35 @@
     height:300px;
     width: 300px;
     background-color: blue ;
-    
-    
+    display: inline-block;
+   
+}
+
+.caja4{
+    height:300px;
+    width: 300px;
+    background-color: green ;
+    display: inline-block;   
+}
+
+.caja5{
+    height:300px;
+    width: 300px;
+    background-color: darkmagenta ;
+    position: relative;
+    left: 20px;
+    bottom: 20px;
+     
+}
+
+.goku{
+    height:600px;
+    width: 600px;
+    background-color: darkgoldenrod ;
+}
+
+.gohan{
+    height:200px;
+    width: 200px;
+    background-color: gold ;
 }
