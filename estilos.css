@@ -1,0 +1,23 @@
+.caja1{
+    height: 300px;
+    width: 300px;
+    background-color: yellow;
+    display: inline-block ;
+
+}
+
+.caja2{
+    height:300px;
+    width: 300px;
+    background-color: red;
+    display: inline-block;
+    
+}
+
+.caja3{
+    height:300px;
+    width: 300px;
+    background-color: blue ;
+    
+    
+}
